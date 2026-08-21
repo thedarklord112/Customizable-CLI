@@ -1,0 +1,13 @@
+{
+  "name": "mini-term",
+  "version": "0.1.0",
+  "description": "Mini terminal CLI to automate tasks",
+  "bin": {
+    "mini-term": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
